@@ -113,7 +113,7 @@ The following is a list of major tools used for developing this repository.
 ## Quickstart
 
 ```bash
-git clone https://github.com/sadityakumar9211/hardhat-nft-marketplace
+git clone https://github.com/itsvishalyadav/NFT-Marketplace
 cd hardhat-nft-marketplace
 yarn
 ```
@@ -122,7 +122,7 @@ yarn
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/sadityakumar9211/hardhat-nft-marketplace)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/itsvishalyadav/NFT-Marketplace)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
