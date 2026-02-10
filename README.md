@@ -14,13 +14,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -34,21 +27,10 @@
   <p align="center">
     This repository is one of the three repositories which are part of NFT Marketplace Project.
     <br /> 
-    <a href="https://github.com/sadityakumar9211/nextjs-nft-marketpalce"><strong> <i>nextjs-nft-marketplace</i>: Frontend Repository of NFT Marketplace Project»</strong></a>
-    <br>
-    <a href="https://github.com/sadityakumar9211/thegraph-nft-marketplace"><strong> <i>thegraph-nft-marketplace</i>: The Graph Repository of NFT Marketplace Project»</strong></a>
-    <br>
-    <br />
-    <br />
-    <a href="https://nftmarketplace-thegraph.vercel.app/" target="_blank">visit site</a>
-    ·
-    <a href="https://github.com/sadityakumar9211/hardhat-nft-marketplace/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sadityakumar9211/hardhat-nft-marketplace/issues">Request Feature</a>
   </p>
 </div>
 
-### This is the hardhat repository of this project.
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -205,23 +187,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-If you appreciated this, feel free to follow me or donate!
-
-ETH Address: 0xED5A704De64Ff9699dB62d09248C8d179bb77D8A
-
-[![Aditya Singh Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saditya9211/)
-[![Aditya Singh Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sadityakumar921)
-[![Aditya Singh StackOverflow](https://img.shields.io/badge/StackOverflow-gray?style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/14769639/saditya)
-[![Aditya Singh Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sadityakumar9211)
-[![Aditya Singh Gmail](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail)](mailto:sadityakumar9211@gmail.com)
-
-Project Link: [https://github.com/sadityakumar9211/hardhat-nft-marketplace](https://github.com/sadityakumar9211/hardhat-nft-marketplace)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -242,18 +207,8 @@ Project Link: [https://github.com/sadityakumar9211/hardhat-nft-marketplace](http
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sadityakumar9211/hardhat-nft-marketplace.svg?style=for-the-badge
-[contributors-url]: https://github.com/sadityakumar9211/hardhat-nft-marketplace/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sadityakumar9211/hardhat-nft-marketplace.svg?style=for-the-badge
-[forks-url]: https://github.com/sadityakumar9211/hardhat-nft-marketplace/network/members
-[stars-shield]: https://img.shields.io/github/stars/sadityakumar9211/hardhat-nft-marketplace.svg?style=for-the-badge
-[stars-url]: https://github.com/sadityakumar9211/hardhat-nft-marketplace/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sadityakumar9211/hardhat-nft-marketplace.svg?style=for-the-badge
-[issues-url]: https://github.com/sadityakumar9211/hardhat-nft-marketplace/issues
-[license-shield]: https://img.shields.io/github/license/sadityakumar9211/hardhat-nft-marketplace.svg?style=for-the-badge
-[license-url]: https://github.com/sadityakumar9211/hardhat-nft-marketplace/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://linkedin.com/in/saditya9211
+
+
 [product-screenshot]: https://user-images.githubusercontent.com/78147198/184471278-42e393d0-db94-4577-bdc9-328510b777c0.png
 
 <!-- This is the beginning of the URLs of Badges -->
